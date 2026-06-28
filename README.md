@@ -29,3 +29,7 @@ with AI, and delivers a clean formatted report to their inbox in under 60 second
 ## Workflow file
 Import `workflow/ai-research-assistant-workflow.json`
 directly into any N8N instance to use.
+
+##Loom Video Link
+[<img width="1908" height="994" alt="image" src="https://github.com/user-attachments/assets/f6cdb151-86e1-42fb-9fdd-05cbe21104a8" />](https://www.loom.com/share/c8da67a7b49b44ee8db8627a71011758)
+
